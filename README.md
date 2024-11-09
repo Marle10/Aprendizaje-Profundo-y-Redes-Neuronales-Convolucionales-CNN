@@ -1,4 +1,4 @@
-# Explorando-el-Mundo-del-Aprendizaje-Profundo-y-Redes-Neuronales-Convolucionales-CNN-
+# Explorando-el-Mundo-del-Aprendizaje-Profundo-y-Redes-Neuronales-Convolucionales-CNN
 
 Para ilustrar la aplicación práctica de las CNN, un ejemplo de clasificación de imágenes usando el conjunto de datos CIFAR-10, que contiene 60,000 imágenes en color de 32x32 píxeles en 10 clases diferentes. TensorFlow y Keras para implementar y entrenar una CNN que pueda clasificar estas imágenes.
 
