@@ -1,13 +1,14 @@
 # Explorando-el-Mundo-del-Aprendizaje-Profundo-y-Redes-Neuronales-Convolucionales-CNN-Objetivo-
 
+Para ilustrar la aplicación práctica de las CNN, un ejemplo de clasificación de imágenes usando el conjunto de datos CIFAR-10, que contiene 60,000 imágenes en color de 32x32 píxeles en 10 clases diferentes. TensorFlow y Keras para implementar y entrenar una CNN que pueda clasificar estas imágenes.
 
-Conv2D aplica filtros para extraer características de las imágenes, aumentando la capacidad de detección de patrones.
+1.Conv2D aplica filtros para extraer características de las imágenes, aumentando la capacidad de detección de patrones.
 
-MaxPooling2D reduce las dimensiones espaciales, disminuyendo la cantidad de parámetros y mitigando el riesgo de sobreajuste.
+2.MaxPooling2D reduce las dimensiones espaciales, disminuyendo la cantidad de parámetros y mitigando el riesgo de sobreajuste.
 
-Flatten convierte la salida de las capas convolucionales en un vector que puede ser usado en capas densas.
+3.Flatten convierte la salida de las capas convolucionales en un vector que puede ser usado en capas densas.
 
-Dense aplica funciones de activación no lineales y conecta cada neurona a la salida, asignando probabilidades a las clases.
+4.Dense aplica funciones de activación no lineales y conecta cada neurona a la salida, asignando probabilidades a las clases.
 
 Este modelo es una red de tipo CNN (Convolutional Neural Network), ideal para clasificación de imágenes en el conjunto de datos CIFAR-10.
 
